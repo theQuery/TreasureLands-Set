@@ -1,0 +1,100 @@
+Helmet
+- Dodge 5
+- Life Essence 3
+- Mirror 5
+- Judgement 5
+- Explosive Immunity 3
+- Escapist 5
+- Anti Life 10
+- Eyepatch 2
+- Spiked 2
+- Thor 2
+
++ Replaceable:
+- Iron Lung 1
+- Wild Mark 3
+
+Chestplate
+- Absolute Unit 1
+- Dodge 5
+- Life Essence 3
+- Mirror 5
+- Judgement 5
+- Platemail 3
+- Health Boost 3
+- Fat 6
+- Spectral 7
+- Icy Veins 4
+
++ Replaceable:
+- Aegis 5
+
+Leggings
+- Moltens Wrath 4
+- Dodge 5
+- Life Essence 3
+- Titan Forged 4
+- Mirror 5
+- Judgement 5
+- Sixth Sense 6
+- Golems 10
+- Wolves 8
+- Reinforced 5
+
+Boots
+- Speed 3
+- Jump 2
+- Dodge 5
+- Life Essence 3
+- Mirror 5
+- Blessed 3
+- Fitness 5
+- Fearless 5
+- Judgement 5
+- Pyromaniac 5
+
+Axe
+- Crushing 5
+- Execute 5
+- Annihilate 5
+- Petrify 5
+- Killstreak 6
+- Enrage 5
+- Trickshot 5
+- Dual Wield 3
+- Corruption 5
+- Leach 4
+
++ Replaceable:
+- Hellish 5
+
+Sword
+- Killstrek 6
+- Crushing 5
+- Execute 5
+- Annihilate 5
+- Purge 4
+- Trickshot 5
+- Dual Wield 3
+- Lifesteal 3
+- Divine 3
+- Teleblock 4
+
++ Replaceable:
+- Wounds 3
+- Block 3
+- Body Breaker 3
+- Vine Grasp 3
+- Enforcer 5
+
+Bow
+- Soulshot 5
+- Arrow Rain 5
+- Holy Smite 5
+- Killstreak 6
+- Zeus 3
+- Entangle 4
+- Firestorm 4
+- Blizzard 5
+- TNT Rain 5
+- Rift Slayer 5
