@@ -11,6 +11,7 @@ Helmet
 - Thor 2
 
 + Replaceable:
+- Arsonist 1
 - Iron Lung 1
 - Wild Mark 3
 
