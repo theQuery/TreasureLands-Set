@@ -20,7 +20,7 @@ Chestplate
 - Life Essence 3
 - Mirror 5
 - Judgement 5
-- Platemail 3
+- Titan Forged 4
 - Health Boost 3
 - Fat 6
 - Spectral 7
@@ -33,7 +33,7 @@ Leggings
 - Moltens Wrath 4
 - Dodge 5
 - Life Essence 3
-- Titan Forged 4
+- Platemail 3
 - Mirror 5
 - Judgement 5
 - Sixth Sense 6
