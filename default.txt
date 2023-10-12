@@ -7,11 +7,10 @@ Helmet
 - Escapist 5
 - Anti Life 10
 - Eyepatch 2
-- Spiked 2
 - Thor 2
+- Arsonist 1
 
 + Replaceable:
-- Arsonist 1
 - Iron Lung 1
 - Wild Mark 3
 
@@ -52,6 +51,9 @@ Boots
 - Fitness 5
 - Fearless 5
 - Judgement 5
+- Spiked 2
+
++ Replaceable:
 - Pyromaniac 5
 
 Axe
