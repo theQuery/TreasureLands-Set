@@ -24,7 +24,7 @@ Chestplate
 - Health Boost 3
 - Fat 6
 - Spectral 7
-- Icy Veins 4
+- Golems 10
 
 + Replaceable:
 - Aegis 5
@@ -37,7 +37,7 @@ Leggings
 - Mirror 5
 - Judgement 5
 - Sixth Sense 6
-- Golems 10
+- Icy Veins 4
 - Wolves 8
 - Reinforced 5
 
