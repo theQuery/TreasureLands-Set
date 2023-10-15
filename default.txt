@@ -65,11 +65,11 @@ Axe
 - Enrage 5
 - Trickshot 5
 - Dual Wield 3
-- Corruption 5
+- Hellish 5
 - Leach 4
 
 + Replaceable:
-- Hellish 5
+- Corruption 5
 
 Sword
 - Killstrek 6
