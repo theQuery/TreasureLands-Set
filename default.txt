@@ -56,7 +56,7 @@ Boots
 + Replaceable:
 - Pyromaniac 5
 
-Axe
+Battle Axe
 - Crushing 5
 - Execute 5
 - Annihilate 5
@@ -71,7 +71,7 @@ Axe
 + Replaceable:
 - Corruption 5
 
-Sword
+Battle Sword
 - Killstrek 6
 - Crushing 5
 - Execute 5
@@ -90,7 +90,7 @@ Sword
 - Vine Grasp 3
 - Enforcer 5
 
-Bow
+Battle Bow
 - Soulshot 5
 - Arrow Rain 5
 - Holy Smite 5
@@ -101,3 +101,14 @@ Bow
 - Blizzard 5
 - TNT Rain 5
 - Rift Slayer 5
+
+Grinding Sword
+- Exp Drain 4
+- Plunder 4
+- Swift Strike 4
+- Hellforged 10
+- Crushing 5
+- Trickshot 5
+- Dual Wield 3
+- Slaughter 3
+- Killstreak 6
