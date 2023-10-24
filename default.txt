@@ -1,114 +1,114 @@
 Helmet
-- Dodge 5
-- Life Essence 3
-- Mirror 5
-- Judgement 5
-- Explosive Immunity 3
-- Escapist 5
 - Anti Life 10
+- Dodge 5
+- Escapist 5
+- Mirror 5
+- Life Essence 3
+- Arsonist 1
+- Judgement 5
 - Eyepatch 2
 - Thor 2
-- Arsonist 1
+- Explosive Immunity 3
 
 + Replaceable:
-- Iron Lung 1
 - Wild Mark 3
+- Iron Lung 1
 
 Chestplate
 - Absolute Unit 1
+- Golems 10
+- Spectral 7
+- Fat 6
 - Dodge 5
-- Life Essence 3
 - Mirror 5
-- Judgement 5
 - Titan Forged 4
 - Health Boost 3
-- Fat 6
-- Spectral 7
-- Golems 10
+- Life Essence 3
+- Judgement 5
 
 + Replaceable:
 - Aegis 5
 
 Leggings
 - Moltens Wrath 4
+- Wolves 8
 - Dodge 5
+- Mirror 5
 - Life Essence 3
 - Platemail 3
-- Mirror 5
-- Judgement 5
 - Sixth Sense 6
-- Icy Veins 4
-- Wolves 8
+- Judgement 5
 - Reinforced 5
+- Icy Veins 4
 
 Boots
+- Dodge 5
+- Mirror 5
+- Life Essence 3
+- Fearless 5
+- Fitness 5
+- Judgement 5
+- Blessed 3
 - Speed 3
 - Jump 2
-- Dodge 5
-- Life Essence 3
-- Mirror 5
-- Blessed 3
-- Fitness 5
-- Fearless 5
-- Judgement 5
 - Spiked 2
 
 + Replaceable:
 - Pyromaniac 5
 
 Battle Axe
-- Crushing 5
-- Execute 5
-- Annihilate 5
-- Petrify 5
+- Hellish 5
 - Killstreak 6
+- Annihilate 5
+- Crushing 5
 - Enrage 5
+- Execute 5
 - Trickshot 5
 - Dual Wield 3
-- Hellish 5
+- Petrify 5
 - Leach 4
 
 + Replaceable:
 - Corruption 5
 
 Battle Sword
+- Teleblock 4
 - Killstrek 6
+- Annihilate 5
 - Crushing 5
 - Execute 5
-- Annihilate 5
-- Purge 4
 - Trickshot 5
+- Purge 4
 - Dual Wield 3
-- Lifesteal 3
 - Divine 3
-- Teleblock 4
+- Lifesteal 3
 
 + Replaceable:
-- Wounds 3
-- Block 3
 - Body Breaker 3
 - Vine Grasp 3
 - Enforcer 5
+- Block 3
+- Wounds 3
 
 Battle Bow
-- Soulshot 5
+- Killstreak 6
 - Arrow Rain 5
 - Holy Smite 5
-- Killstreak 6
-- Zeus 3
+- Soulshot 5
+- Blizzard 5
+- Rift Slayer 5
+- TNT Rain 5
 - Entangle 4
 - Firestorm 4
-- Blizzard 5
-- TNT Rain 5
-- Rift Slayer 5
+- Zeus 3
 
 Grinding Sword
-- Exp Drain 4
-- Plunder 4
-- Swift Strike 4
-- Hellforged 10
+- Killstreak 6
 - Crushing 5
 - Trickshot 5
+- Exp Drain 4
 - Dual Wield 3
 - Slaughter 3
-- Killstreak 6
+- Plunder 4
+- Hellforged 10
+- Swift Strike 4
